@@ -1,0 +1,14 @@
+TK_ID=3
+CONCAT_OP=6
+OR_OP=7
+ZERO_OR_MANY_OP=4
+T__1=1
+T__0=2
+ONE_OR_MANY_OP=5
+WS=8
+'.'=6
+'|'=7
+'+'=5
+'*'=4
+')'=2
+'('=1
